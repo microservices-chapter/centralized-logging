@@ -12,3 +12,6 @@ The ELK Stack, which traditionally consisted of three main components — Elasti
 Filebeat uses a backpressure-sensitive protocol when sending data to Logstash.
 
 ![elk](filebeat-diagram.png)
+
+## Kibana
+http://localhost:5601/
